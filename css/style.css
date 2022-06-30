@@ -980,10 +980,17 @@ a:focus {
 
 .team .team-img {
   position: relative;
+    height: 400px;
+    width: 400px;
+    
 }
 
 .team .team-img img {
   width: 100%;
+}
+
+img.stretchy {
+  
 }
 
 .team .team-text {
